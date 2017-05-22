@@ -1,4 +1,4 @@
-Country,Year,Month,Leads,Email Promo,Road Show,Event,Display Ads,Est Rev,Est Marketing Spent
+Country,Year,Month,Leads,Email_Promo,Road_Show,Event,Display_Ads,Est_Rev,Est_ Marketing_Spent
 ANZ,2014,Nov,20,Y,Y,Y,N,18700,24400
 ANZ,2014,Dec,9,Y,Y,Y,N,18100,16133
 ANZ,2015,Jan,19,Y,N,N,N,19700,25733
